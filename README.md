@@ -1,6 +1,6 @@
 <p> Este projecto foi utilizando o comando create-react-app</p>
-<img src="public/DropDownList.png" />
 <p>Este rojecto permite que ao seleccionar uma provincia faz um filtro de todos os municipios da provincia seleccionada:</p>
+<img src="public/DropDownList.png" />
 <ul>
     <li> <h2> Passo para configuração e instalação do projecto no seu computador</h2> </li>
   <li> 
