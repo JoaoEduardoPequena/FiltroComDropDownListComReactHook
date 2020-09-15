@@ -1,5 +1,5 @@
-<p> este projecto foi utilizando o comando create-react-app</p>
-<img src="DropDownList.png" />
+<p> Este projecto foi utilizando o comando create-react-app</p>
+<img src="public/DropDownList.png" />
 <ul>
   <li> 
     Primeiro Passo 
